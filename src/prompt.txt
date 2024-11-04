@@ -1,1 +1,1 @@
-Create a cat sitting in a chair
+Create a story in the form of 12 images about a cat going on an adventure. Make sure to only use images to tell a narrative, with no text involved. Be as creative as you like, but make sure the story has a beginning, middle, and end.
